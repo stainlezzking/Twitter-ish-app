@@ -19,7 +19,6 @@ ___
 
 <img src="img/profile.png">
 
-<div class="space"></div>
 
 ### __TOOLS__
 * HTML 
@@ -56,7 +55,7 @@ ___
 
 
 ## UNCOMPLETED
-this is not yet to be completed
+this is project is not fully developed yet
  ### FEATURES LEFT
  * like 
  * comment
