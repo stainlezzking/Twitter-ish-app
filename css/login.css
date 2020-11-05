@@ -1,0 +1,74 @@
+
+.container{
+    max-width: 400px;
+    margin: 20% auto;
+    background-color: var(--deepBlue);
+    padding: 2rem;
+    background-image: url("../img/logo.png");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position-x: center;
+    background-position-y: 10px;
+}
+/* container has inline style overflow set to non because message in create js app */
+.message{
+    padding: .4rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    background-color: tomato;
+    position: relative;
+    left: 2000px;
+    transition: all 1.2s;
+}
+input{
+    display: block;
+    width: 100%;
+    padding: .4rem;
+    border-radius: .3rem;
+    margin-bottom:1rem;
+}
+a {
+    text-decoration: none;
+}
+input[type=submit]{
+    width: auto;
+    padding: .6rem;
+    color: var(--light);
+    margin: 0 auto;
+    font-size: 12px;
+}
+::placeholder{
+    color: var(--light);
+    text-align: center;
+}
+.form-group{
+    display: block;
+    position: relative;
+   
+}
+i {
+    position: absolute;
+    padding: .4rem;
+    color: var(--light);
+    right: .4rem;
+    cursor: pointer;
+}
+.change{
+    margin-top: 10px;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+.change a {
+    text-decoration: underline;
+    color: var(--light);
+}
+
+
+@media screen and (min-width:400px){
+    .container{
+        margin: 10% auto;
+    }
+}

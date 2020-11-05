@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "stainlezz",
+      "password": "stanko",
+      "age": 20,
+      "status": "working",
+      "remote": "job",
+      "rank": "admin"
+    },
+    {
+      "id": 2,
+      "username": "yudi",
+      "password": "stano",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "username": "blazze",
+      "password": "daniel",
+      "age": 22
+    },
+    {
+      "username": "kingsley",
+      "password": "abuchi",
+      "posts": 0,
+      "rank": null,
+      "id": 4
+    }
+  ],
+  "tweets": [
+    {
+      "author": "stainlezz",
+      "body": "this is a second try!",
+      "likes": 20,
+      "id": 1
+    },
+    {
+      "author": "stainlezz",
+      "body": "yab yab yab",
+      "likes": 0,
+      "id": 2
+    },
+    {
+      "author": "stainlezz",
+      "body": "lets goooooo!",
+      "likes": 0,
+      "id": 3
+    },
+    {
+      "author": "stainlezz",
+      "body": "oohh i didnt see him",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "author": "yudi",
+      "body": "oohh i didnt see him",
+      "likes": 0,
+      "id": 5
+    },
+    {
+      "author": "stainlezz",
+      "body": "anybody awake???",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "author": "kingsley",
+      "body": "i just joined the gang guys!!!!!!!",
+      "likes": 0,
+      "id": 7
+    },
+    {
+      "author": "kingsley",
+      "body": "more text from the king\nyelllllllllloooooooooooo",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "author": "kingsley",
+      "body": "i dont even know what to tweet lmao hahahaha, i'm laughing so hard, because i'm imagining someone from github reading this hahahahaha ..\nokay but if you come across this from anywhere, a feedback would be highly appreciated.",
+      "likes": 0,
+      "id": 9
+    }
+  ]
+}
