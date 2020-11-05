@@ -1,19 +1,4 @@
-<style>
-    .space{
-        height:30px;
-    }
-    h1{
-        text-align:center;
-    }
-    h3{
-        color:blue;
-        color:lightblue;
-    }
-    img{
-        display:block;
-        margin:0 auto;
-    }
-</style>
+
 # Twitter-ish App :)
 ___
 
